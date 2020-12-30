@@ -17,6 +17,7 @@ from datetime import datetime, timedelta
 #	--debug
 #	--stopcopy
 #	
+#	install: python3.8 
 # 	install: pip3.8 
 #		package: pexpect
 # 
